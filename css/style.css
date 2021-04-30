@@ -64,7 +64,7 @@ li{
 	height: 156px;
 	color: white; 
 }
-.sicky{
+.sticky{
 	font-size: 20px;
 	color: white;
 	margin-left: 139px;
@@ -153,10 +153,10 @@ li{
 .Rectangle1{
 	width: 51px;
 	height: 51px;
-	margin-top: -17px;
+	margin-top: 80px;
 	margin-left: -17px;
 	vertical-align: bottom;
-	position: absolute;
+	position: relative;
 }
 .Rectangle2{
 	width: 51px;
@@ -164,21 +164,39 @@ li{
 	vertical-align: bottom;
 	margin-top: -17px;
 	margin-left: 14px;
-	position: absolute;
-}
-.arrowbox{
-	margin-left: 876px;
 	position: relative;
+}
+.bluebox {
+    left: 1176px;
+    background-color: #5863F8;
+    position: absolute;
+    top: 537px;
+    width: 51px;
+    height: 51px;
+    display: inline-block;
+}
+.whitebox{
+    position: absolute;
+    top: 537px;
+    width: 51px;
+    height: 51px;
+    display: inline-block;
+    left: 1125px;
+    background-color: #FFF;
 }
 .arrow1{
-	position: relative;
-	left: 28.51px
-	top: 18.5px;
+    width: 14px;
+    height: 14px;
+    bottom: 92px;
+    margin: 18px;
+    right: 157px;
 }
 .arrow2{
-	position: relative;
-	margin-left: 28.51px
-	top: 18.5px;
+    width: 14px;
+    height: 14px;
+    bottom: 92px;
+    margin: 18px;
+    right: 157px;
 }
 a {
     text-decoration: none;
