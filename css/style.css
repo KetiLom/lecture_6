@@ -1,0 +1,152 @@
+.inline{
+	display: inline-block;
+}
+.hotel{
+	width: 1366px;
+	height: 662px;
+	position: relative;
+}
+.menu_font{
+	font-size: 12px;
+/*	font-family: Poppins;
+	font: url(..font/Poppins-Medium.woff2);*/
+	color: #FFFFFF;
+
+}
+.Zetta_hotels{
+	font-size: 14;
+	font-family: Poppins;
+	font: url(..font/Poppins-SemiBold.woff2);
+	margin-left: 139px;
+	margin-top: 20px;
+	color: white;
+}
+.img_bckgrnd{
+	background-image: url(../image/hotel.png);
+	width: 1366px;
+	height: 662px;
+	position: relative;
+
+}
+li{
+	margin-top: 36.76px;	
+}
+.HOME{
+	margin-left: 451px;
+}
+.ROOMS{
+	margin-left: 51px;
+}
+.RESTAURANT{
+	margin-left: 64px;
+}
+.ABOUT{
+	margin-left: 52px;
+}
+.BLOG{
+	margin-left: 52px;
+}
+.CONTACT{
+	margin-left: 54px;
+}
+.hd1{
+	font-size: 62px;
+	margin-left: 139px;
+	margin-top: 168px;
+	width: 495px
+	height: 156px;
+	color: white; 
+}
+.txt{
+	font-size: 14px;
+	margin-top: 26px;
+	width: 495px
+	height: 156px;
+	color: white; 
+}
+.sicky{
+	font-size: 20px;
+	color: white;
+	margin-left: 139px;
+	margin-top: 118px;
+	font-family: Poppins;
+	font: url(..font/Poppins-Bold.woff)
+}
+.Footer{
+	position: sticky;
+	width: 1366px;
+	height: 304px;
+}
+.middletxt{
+	font-size: 42px;
+	font-family: Poppins;
+	font: url(..font/Poppins-ExtraBold.woff);
+	color: black;
+}
+.h5txt{
+	font-size: 16px;
+	font-family: Poppins;
+	font: url(..font/Poppins-Medium.woff);
+	color: black;
+	margin-top: 18px;
+}
+.details{
+	font-size: 14px;
+	font-family: Poppins;
+	font: url(..font/Poppins-Regular.woff);
+	color: black;
+	margin-top: 14px;
+}
+.ft{
+	margin-top: 134px;
+}
+.whitearrow{
+	width: 10.41px;
+	height: 10.81px;
+	margin-left: 20px;
+	margin-top: 19.59px;
+}
+.readmoreblock{
+	background-color: #5863F8;
+	margin-left: 10px;
+	width: 184px;
+	height: 50px;
+	margin-top: 36px;
+}
+.readmore{
+	color: white;
+	margin-left: 45px;
+	margin-top: 15px;
+	font-size: 14px;
+	font-family: Poppins;
+	font: url(..font/Poppins-Regular.woff);
+}
+.img1{
+	width: 260px;
+	height: 185p;
+	vertical-align: bottom;
+}
+.img2{
+	margin-left: 16px;
+	width: 260px;
+	height: 185px;
+	vertical-align: bottom;
+}
+.img3{
+	width: 536px;
+	height: 260px;
+	margin-top: 16px;
+}
+.right{
+	margin-left: 151px;
+	margin-top: 69px;
+	width: 540px;
+	vertical-align: top;
+
+}
+.left{
+	margin-left: 126px;
+	margin-top: 69px;
+	width: 444px;
+	vertical-align: top;
+}
