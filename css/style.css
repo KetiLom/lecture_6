@@ -8,8 +8,8 @@
 }
 .menu_font{
 	font-size: 12px;
-/*	font-family: Poppins;
-	font: url(..font/Poppins-Medium.woff2);*/
+	font-family: Poppins;
+	font: url(..font/Poppins-Medium.woff2);
 	color: #FFFFFF;
 
 }
@@ -149,4 +149,26 @@ li{
 	margin-top: 69px;
 	width: 444px;
 	vertical-align: top;
+}
+.Rectangle1{
+	width: 51px;
+	height: 51px;
+	vertical-align: bottom;
+}
+.Rectangle2{
+	width: 51px;
+	height: 51px;
+	vertical-align: bottom;
+	margin-left: 0px;
+}
+.arrows{
+		margin-left: 876px;
+}
+a {
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
 }
